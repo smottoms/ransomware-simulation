@@ -1,0 +1,16 @@
+YOUR FILES HAVE BEEN ENCRYPTED
+
+This is a cybersecurity training simulation.
+
+In real ransomware attacks:
+• Attackers encrypt your files
+• Demand cryptocurrency
+• Threaten permanent data loss
+
+Click DECRYPT to restore your files.
+
+Always:
+✔ Backup your data
+✔ Use strong security
+✔ Patch systems
+✔ Avoid suspicious emails
