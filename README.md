@@ -43,3 +43,7 @@ python ransomware_sim.py
 Decrypt files
 
 python decryptor.py
+
+## 🎥 Demo Video
+
+[![Watch the Demo](https://youtu.be/-qeZcO8CPjM)

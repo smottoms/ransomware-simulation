@@ -1,3 +1,5 @@
+what??
+
 What is Cryptocurrency?
 Cryptocurrency is a digital or virtual currency that uses cryptography for security, making it nearly impossible to counterfeit. Unlike traditional fiat money (like the US Dollar or Euro), cryptocurrencies are not issued or controlled by any central authority, such as a government or bank. Instead, they operate on decentralized networks based on blockchain technology, which ensures transparency and immutability. 
 Key Concepts
