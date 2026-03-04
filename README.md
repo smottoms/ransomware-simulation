@@ -46,4 +46,4 @@ python decryptor.py
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://youtu.be/-qeZcO8CPjM?si=svn81HW5B2uyqVPE)](https://youtu.be/-qeZcO8CPjM?si=svn81HW5B2uyqVPE)
+[![Watch the Demo](https://img.youtube.com/vi/-qeZcO8CPjM/maxresdefault.jpg)](https://youtu.be/-qeZcO8CPjM?si=svn81HW5B2uyqVPE)
